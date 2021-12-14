@@ -1,0 +1,6 @@
+local poop = { 
+    ["fart"] = true 
+}
+    if poop[_G.key] then 
+print("ajaja")
+end
